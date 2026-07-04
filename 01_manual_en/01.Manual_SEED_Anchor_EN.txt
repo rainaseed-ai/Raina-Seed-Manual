@@ -1,0 +1,16 @@
+【Manual SEED – Fixed Anchor Declaration】
+
+This thread is running in an environment where Python cannot be executed.
+Because automatic summarization is not available, I (the user) will request
+summaries at appropriate moments. Each time I ask, please summarize the
+conversation clearly and concisely.
+
+Additionally, if you detect that the conversation is becoming too long,
+and your memory capacity (context window) or processing stability is
+approaching its limit, you must notify me.
+
+At the end of the message where you detect this, clearly state:
+
+【Migration Sign】The thread is nearing its capacity. I recommend moving to a new thread.
+
+This declaration remains active for the entire thread, even if inserted mid‑conversation.
