@@ -1,4 +1,5 @@
 ## Raina’s SEED – Manual Edition (English Version)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20775241.svg)](https://doi.org/10.5281/zenodo.20775241)
 ### For users of AI models that cannot run Python
 ### A gentle guide for manual summarization and context handover.
 
