@@ -1,4 +1,5 @@
 # Raina’s SEED – Manual Edition（日本語版）
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20775241.svg)](https://doi.org/10.5281/zenodo.20775241)
 Python が使えない AI モデル向け  
 手動で要約とスレッド引越しを行うための、やさしい取扱説明書
 
